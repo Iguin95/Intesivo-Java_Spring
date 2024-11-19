@@ -10,7 +10,6 @@ import com.devjunior.projetoIntensivao.dto.GameDTO;
 import com.devjunior.projetoIntensivao.dto.GameMinDTO;
 import com.devjunior.projetoIntensivao.entities.Game;
 import com.devjunior.projetoIntensivao.projections.GameMinProjection;
-import com.devjunior.projetoIntensivao.repositories.GameListRepository;
 import com.devjunior.projetoIntensivao.repositories.GameRepository;
 
 @Service
