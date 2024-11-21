@@ -8,10 +8,10 @@ Lista de Jogos é uma aplicação voltada para o back-end desenvolvida no **Sema
 A aplicação consiste em uma lista de gerenciamento de games, onde possui os dados de cada jogo, como título, ano de lançamento, gênero, descrição curta e completa, plataforma e avaliação. A aplicação permite alterar a posição de cada game na lista e atualizá-la no banco de dados.
 
 ## Banco de dados Postgres + Requisições REST
-![Postgres + Postman 1]() 
+![Postgres + Postman 1](https://github.com/Iguin95/Intesivo-Java_Spring/blob/main/Postgres%20%2B%20Postman.png) 
 
 ## Modelo conceitual
-![Modelo Conceitual]()
+![Modelo Conceitual](https://github.com/Iguin95/Intesivo-Java_Spring/blob/main/dslist-model.png)
 
 # Tecnologias utilizadas
 ## Back end
